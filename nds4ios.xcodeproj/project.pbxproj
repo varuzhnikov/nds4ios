@@ -1677,7 +1677,7 @@
 					"$(SRCROOT)/",
 					"$(SRCROOT)/nds4droid-code/jni/desmume/src/android",
 				);
-				INFOPLIST_FILE = "$(SRCROOT)/nds4ios/support/NDS4iOS-Info.plist";
+				INFOPLIST_FILE = "nds4ios/support/NDS4iOS-Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 5.0;
 				OTHER_LDFLAGS = "-ObjC";
 				PRODUCT_NAME = nds4ios;
@@ -1708,7 +1708,7 @@
 					"$(SRCROOT)/",
 					"$(SRCROOT)/nds4droid-code/jni/desmume/src/android",
 				);
-				INFOPLIST_FILE = "$(SRCROOT)/nds4ios/support/NDS4iOS-Info.plist";
+				INFOPLIST_FILE = "nds4ios/support/NDS4iOS-Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 5.0;
 				OTHER_LDFLAGS = "-ObjC";
 				PRODUCT_NAME = nds4ios;
